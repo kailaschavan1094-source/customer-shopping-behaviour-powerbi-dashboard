@@ -46,11 +46,15 @@ This Power BI dashboard analyzes customer shopping behaviour using interactive K
 
 ## 📷 Dashboard Preview
 
+
+
+## 📷 Dashboard Preview
+
 ### Page 1
-![Dashboard Page 1](image-link)
+![Dashboard Page 1](Screenshot%202026-07-19%20173050.png)
 
 ### Page 2
-![Dashboard Page 2](image-link)
+![Dashboard Page 2](Screenshot%202026-07-19%20173151.png)
 
 
 ## 👨‍💻 Author
